@@ -14,7 +14,7 @@ Created CSS snippet cheatsheet with styling.
 
 ## Screenshot of deployed page
 
-![Screenshot of the deployed page](./assets/images/screenshot-css-snippet.png)
+![Screenshot of the deployed page](./assets/images/screenshot-css-snippet2.png)
 
 ## Link to deployed page
 
